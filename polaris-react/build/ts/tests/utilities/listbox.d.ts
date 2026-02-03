@@ -1,0 +1,9 @@
+import React from 'react';
+import type { ReactElement } from 'react';
+import { ListboxContext } from '../../src/utilities/listbox';
+import type { ComboboxListboxType } from '../../src/utilities/combobox';
+export declare function mountWithListboxProvider(element: React.ReactElement, context?: React.ContextType<typeof ListboxContext>): import("@shopify/react-testing").CustomRoot<unknown, {
+    context: import("../../src/utilities/listbox").ListboxContextType | undefined;
+}>;
+export declare function mountWithComboboxListContext(listbox: ReactElement, context?: ComboboxListboxType): import("@shopify/react-testing").CustomRoot<unknown, import("../../src/components/PolarisTestProvider").WithPolarisTestProviderOptions>;
+//# sourceMappingURL=listbox.d.ts.map
