@@ -1,5 +1,5 @@
 {
-  "name": "@shopify/polaris-tokens",
+  "name": "@ploidcom/polaris-tokens",
   "version": "9.4.2",
   "description": "",
   "main": "dist/cjs/build/index.js",
@@ -33,13 +33,13 @@
   "license": "SEE LICENSE IN LICENSE.md",
   "author": "Shopify <dev@shopify.com>",
   "homepage": "https://polaris.shopify.com",
-  "repository": "https://github.com/Shopify/polaris",
+  "repository": "https://github.com/ploidcom/polaris",
   "bugs": {
-    "url": "https://github.com/Shopify/polaris/issues"
+    "url": "https://github.com/ploidcom/polaris/issues"
   },
   "publishConfig": {
     "access": "public",
-    "@shopify:registry": "https://registry.npmjs.org"
+    "@ploidcom:registry": "https://registry.npmjs.org"
   },
   "browserslist": [
     "last 3 chrome versions",

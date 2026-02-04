@@ -1,5 +1,5 @@
 {
-  "name": "@shopify/polaris-icons",
+  "name": "@ploidcom/polaris-icons",
   "version": "9.3.1",
   "license": "SEE LICENSE IN LICENSE.md",
   "author": "Shopify Inc.",
@@ -39,7 +39,7 @@
   },
   "publishConfig": {
     "access": "public",
-    "@shopify:registry": "https://registry.npmjs.org"
+    "@ploidcom:registry": "https://registry.npmjs.org"
   },
   "files": [
     "dist/*"
@@ -49,11 +49,11 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Shopify/polaris.git",
+    "url": "git+https://github.com/ploidcom/polaris.git",
     "directory": "polaris-icons"
   },
   "bugs": {
-    "url": "https://github.com/shopify/polaris/issues"
+    "url": "https://github.com/ploidcom/polaris/issues"
   },
   "homepage": "https://polaris.shopify.com/icons",
   "devDependencies": {
